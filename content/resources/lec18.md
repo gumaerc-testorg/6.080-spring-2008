@@ -1,4 +1,5 @@
 ---
+content_type: resource
 description: Lecture notes on cryptographic protocols, trapdoor one-way functions,
   NP-completeness and cryptography, message authentication, the dating protocol, and
   zero-knowledge proofs.
@@ -7,6 +8,5 @@ file_location: /coursemedia/6-080-great-ideas-in-theoretical-computer-science-sp
 file_type: application/pdf
 resourcetype: Document
 title: Lecture 18
-type: resource
 uid: c828f0d6-e58b-ce07-b75f-6d8ac45b8e5f
 ---

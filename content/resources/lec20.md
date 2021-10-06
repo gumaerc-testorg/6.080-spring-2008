@@ -1,4 +1,5 @@
 ---
+content_type: resource
 description: Lecture notes on probably approximately correct (PAC) learning and computational
   complexity of learning.
 file: null
@@ -6,6 +7,5 @@ file_location: /coursemedia/6-080-great-ideas-in-theoretical-computer-science-sp
 file_type: application/pdf
 resourcetype: Document
 title: Lecture 20
-type: resource
 uid: 83846854-1460-ee9c-1d08-eb36c1921d30
 ---

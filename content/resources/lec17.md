@@ -1,4 +1,5 @@
 ---
+content_type: resource
 description: "Lecture notes on public-key cryptography, pseudorandom generators, cryptographic\
   \ codes, one-way functions, Yao\u2019s minimax principle, relation between PRGs\
   \ and OWFs, and the RSA algorithm for public-key cryptography."
@@ -7,6 +8,5 @@ file_location: /coursemedia/6-080-great-ideas-in-theoretical-computer-science-sp
 file_type: application/pdf
 resourcetype: Document
 title: Lecture 17
-type: resource
 uid: 49e7c659-6161-1249-ebac-9ce243d14dc4
 ---

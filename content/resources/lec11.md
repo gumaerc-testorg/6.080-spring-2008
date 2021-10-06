@@ -1,4 +1,5 @@
 ---
+content_type: resource
 description: Lecture notes on NP-completeness in practice and computational universe
   geography.
 file: null
@@ -6,6 +7,5 @@ file_location: /coursemedia/6-080-great-ideas-in-theoretical-computer-science-sp
 file_type: application/pdf
 resourcetype: Document
 title: Lecture 11
-type: resource
 uid: 344c96d4-5576-3764-afe1-4c2597c3d244
 ---

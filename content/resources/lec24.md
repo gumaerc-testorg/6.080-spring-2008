@@ -1,4 +1,5 @@
 ---
+content_type: resource
 description: "Lecture notes on quantum algorithms, computing the XOR of two bits,\
   \ Simon\u2019s algorithm, and breaking the RSA cryptosystem."
 file: null
@@ -6,6 +7,5 @@ file_location: /coursemedia/6-080-great-ideas-in-theoretical-computer-science-sp
 file_type: application/pdf
 resourcetype: Document
 title: Lecture 24
-type: resource
 uid: 67f726eb-7e39-b1a3-b0cd-443916d1be29
 ---

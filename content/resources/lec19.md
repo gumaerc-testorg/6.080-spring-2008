@@ -1,4 +1,5 @@
 ---
+content_type: resource
 description: "Lecture notes on Interactive proofs, machine learning, Philosophy Of\
   \ Learning, PAC Learning, the basic framework of Valiant\u2019s PAC Learning theory,\
   \ and sample complexity."
@@ -7,6 +8,5 @@ file_location: /coursemedia/6-080-great-ideas-in-theoretical-computer-science-sp
 file_type: application/pdf
 resourcetype: Document
 title: Lecture 19
-type: resource
 uid: 2047a247-1d1d-43dc-22c3-b08ae8043ec9
 ---

@@ -1,4 +1,5 @@
 ---
+content_type: resource
 description: Lecture notes on circuits, logic gates, finite automata, and nondeterministic
   finite automata.
 file: null
@@ -6,6 +7,5 @@ file_location: /coursemedia/6-080-great-ideas-in-theoretical-computer-science-sp
 file_type: application/pdf
 resourcetype: Document
 title: Lecture 3
-type: resource
 uid: a8c1831e-26c9-9090-1a5f-b689d4f4e0d9
 ---

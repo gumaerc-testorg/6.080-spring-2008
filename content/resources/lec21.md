@@ -1,4 +1,5 @@
 ---
+content_type: resource
 description: Lecture notes on RSA and language learning in infants, Chomsky, and quantum
   computing.
 file: null
@@ -6,6 +7,5 @@ file_location: /coursemedia/6-080-great-ideas-in-theoretical-computer-science-sp
 file_type: application/pdf
 resourcetype: Document
 title: Lecture 21
-type: resource
 uid: 9e348520-7053-6764-96c0-dcaca19b7c1e
 ---
