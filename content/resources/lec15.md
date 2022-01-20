@@ -2,8 +2,7 @@
 content_type: resource
 description: Lecture notes on probabilistic computation, amplification, the Chernoff
   bound, P versus BPP, derandomization, and cryptography.
-file: null
-file_location: /coursemedia/6-080-great-ideas-in-theoretical-computer-science-spring-2008/747a36bc719ad40af3e74c380efadb89_lec15.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-080-great-ideas-in-theoretical-computer-science-spring-2008/747a36bc719ad40af3e74c380efadb89_lec15.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Lecture 15

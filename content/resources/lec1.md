@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes with an introduction to computational thinking.
-file: null
-file_location: /coursemedia/6-080-great-ideas-in-theoretical-computer-science-spring-2008/f1dad29f41dcf6948f90137e9b0cb19c_lec1.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-080-great-ideas-in-theoretical-computer-science-spring-2008/f1dad29f41dcf6948f90137e9b0cb19c_lec1.pdf
 file_type: application/pdf
 resourcetype: Document
 title: Lecture 1
