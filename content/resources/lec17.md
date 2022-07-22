@@ -3,10 +3,11 @@ content_type: resource
 description: "Lecture notes on public-key cryptography, pseudorandom generators, cryptographic\
   \ codes, one-way functions, Yao\u2019s minimax principle, relation between PRGs\
   \ and OWFs, and the RSA algorithm for public-key cryptography."
-file: /media/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/49e7c65961611249ebac9ce243d14dc4_lec17.pdf
+file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/49e7c65961611249ebac9ce243d14dc4_lec17.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,3 +16,4 @@ resourcetype: Document
 title: Lecture 17
 uid: 49e7c659-6161-1249-ebac-9ce243d14dc4
 ---
+Lecture notes on public-key cryptography, pseudorandom generators, cryptographic codes, one-way functions, Yao’s minimax principle, relation between PRGs and OWFs, and the RSA algorithm for public-key cryptography.

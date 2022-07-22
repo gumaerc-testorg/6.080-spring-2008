@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Lecture notes on logic, proof, Leibniz, and the Calculus Ratiocinator.
-file: /media/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/33742c58e0e02d6ae058fc87c4b981d7_lec2.pdf
+file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/33742c58e0e02d6ae058fc87c4b981d7_lec2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: Lecture 2
 uid: 33742c58-e0e0-2d6a-e058-fc87c4b981d7
 ---
+Lecture notes on logic, proof, Leibniz, and the Calculus Ratiocinator.
