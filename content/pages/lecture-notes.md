@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of lecture topics along with lecture notes
+  prepared by 6.089 students to fulfill their "scribe notes" requirement.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/lec1))
+Introduction ({{% resource_link f1dad29f-41dc-f694-8f90-137e9b0cb19c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +38,7 @@ Introduction ([PDF]({{< baseurl >}}/resources/lec1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Logic ([PDF]({{< baseurl >}}/resources/lec2))
+Logic ({{% resource_link 33742c58-e0e0-2d6a-e058-fc87c4b981d7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ Logic ([PDF]({{< baseurl >}}/resources/lec2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Circuits and finite automata ([PDF]({{< baseurl >}}/resources/lec3))
+Circuits and finite automata ({{% resource_link a8c1831e-26c9-9090-1a5f-b689d4f4e0d9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +56,7 @@ Circuits and finite automata ([PDF]({{< baseurl >}}/resources/lec3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Turing machines ([PDF]({{< baseurl >}}/resources/lec4))
+Turing machines ({{% resource_link fb41eda1-b737-de0a-91fa-3c617c3414ba "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ Turing machines ([PDF]({{< baseurl >}}/resources/lec4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Reducibility and Gödel ([PDF]({{< baseurl >}}/resources/lec5))
+Reducibility and Gödel ({{% resource_link 2941b1c3-c81e-e476-65e6-819c772f82a9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +74,7 @@ Reducibility and Gödel ([PDF]({{< baseurl >}}/resources/lec5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Minds and machines ([PDF]({{< baseurl >}}/resources/lec6))
+Minds and machines ({{% resource_link a86c97a5-2d5c-33ba-e01a-3f479e3c627f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Minds and machines ([PDF]({{< baseurl >}}/resources/lec6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Complexity ([PDF]({{< baseurl >}}/resources/lec7))
+Complexity ({{% resource_link 4c40dede-95d3-b2fe-07e6-aa435b46b471 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +92,7 @@ Complexity ([PDF]({{< baseurl >}}/resources/lec7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Polynomial time ([PDF]({{< baseurl >}}/resources/lec8))
+Polynomial time ({{% resource_link 6bb9d928-8a25-0083-0951-9b3bc454f79b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +101,7 @@ Polynomial time ([PDF]({{< baseurl >}}/resources/lec8))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-P and NP ([PDF]({{< baseurl >}}/resources/lec9))
+P and NP ({{% resource_link b4daea18-581e-2c80-b949-6edeeb3f0bc6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +110,7 @@ P and NP ([PDF]({{< baseurl >}}/resources/lec9))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-NP-completeness ([PDF]({{< baseurl >}}/resources/lec10))
+NP-completeness ({{% resource_link 1cce8117-881c-1d1e-5a21-935bdf76d377 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ NP-completeness ([PDF]({{< baseurl >}}/resources/lec10))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-NP-completeness in practice ([PDF]({{< baseurl >}}/resources/lec11))
+NP-completeness in practice ({{% resource_link 344c96d4-5576-3764-afe1-4c2597c3d244 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +128,7 @@ NP-completeness in practice ([PDF]({{< baseurl >}}/resources/lec11))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Space complexity and more ([PDF]({{< baseurl >}}/resources/lec12))
+Space complexity and more ({{% resource_link 6a28fe89-bb2e-34cc-97ab-e80af66155f6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +137,7 @@ Space complexity and more ([PDF]({{< baseurl >}}/resources/lec12))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Randomness ([PDF]({{< baseurl >}}/resources/lec13))
+Randomness ({{% resource_link b6076aea-6645-1b8e-1e51-84929914c5e8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +146,7 @@ Randomness ([PDF]({{< baseurl >}}/resources/lec13))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Probabilistic complexity classes ([PDF]({{< baseurl >}}/resources/lec14))
+Probabilistic complexity classes ({{% resource_link ab4c8aea-dcf4-e955-7848-16bab9ee7b65 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +155,7 @@ Probabilistic complexity classes ([PDF]({{< baseurl >}}/resources/lec14))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Derandomization / cryptography double feature ([PDF]({{< baseurl >}}/resources/lec15))
+Derandomization / cryptography double feature ({{% resource_link 747a36bc-719a-d40a-f3e7-4c380efadb89 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +164,7 @@ Derandomization / cryptography double feature ([PDF]({{< baseurl >}}/resources/l
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Private-key cryptography ([PDF]({{< baseurl >}}/resources/lec16))
+Private-key cryptography ({{% resource_link 3470bc68-972a-f3bb-7a7d-656922bdcdfd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +173,7 @@ Private-key cryptography ([PDF]({{< baseurl >}}/resources/lec16))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Public-key cryptography ([PDF]({{< baseurl >}}/resources/lec17))
+Public-key cryptography ({{% resource_link 49e7c659-6161-1249-ebac-9ce243d14dc4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +182,7 @@ Public-key cryptography ([PDF]({{< baseurl >}}/resources/lec17))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Cryptographic protocols ([PDF]({{< baseurl >}}/resources/lec18))
+Cryptographic protocols ({{% resource_link c828f0d6-e58b-ce07-b75f-6d8ac45b8e5f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +191,7 @@ Cryptographic protocols ([PDF]({{< baseurl >}}/resources/lec18))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Interactive proofs / machine learning ([PDF]({{< baseurl >}}/resources/lec19))
+Interactive proofs / machine learning ({{% resource_link 2047a247-1d1d-43dc-22c3-b08ae8043ec9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +200,7 @@ Interactive proofs / machine learning ([PDF]({{< baseurl >}}/resources/lec19))
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Probably Approximately Correct (PAC) learning ([PDF]({{< baseurl >}}/resources/lec20))
+Probably Approximately Correct (PAC) learning ({{% resource_link 83846854-1460-ee9c-1d08-eb36c1921d30 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +209,7 @@ Probably Approximately Correct (PAC) learning ([PDF]({{< baseurl >}}/resources/l
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Learning, Chomsky, RSA, quantum ([PDF]({{< baseurl >}}/resources/lec21))
+Learning, Chomsky, RSA, quantum ({{% resource_link 9e348520-7053-6764-96c0-dcaca19b7c1e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +218,7 @@ Learning, Chomsky, RSA, quantum ([PDF]({{< baseurl >}}/resources/lec21))
 22-23
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum computing ([PDF]({{< baseurl >}}/resources/lec22_23))
+Quantum computing ({{% resource_link 5b8217eb-2ae7-cf72-0d68-10c1dca91b46 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +227,7 @@ Quantum computing ([PDF]({{< baseurl >}}/resources/lec22_23))
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum algorithms ([PDF]({{< baseurl >}}/resources/lec24))
+Quantum algorithms ({{% resource_link 67f726eb-7e39-b1a3-b0cd-443916d1be29 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
