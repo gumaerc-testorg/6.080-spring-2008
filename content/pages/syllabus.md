@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, pedagogy,
+  requirements, textbooks, scribe notes, collaboration policy, prerequisites, relation
+  to other courses, organization, and lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +19,7 @@ This course provides a challenging introduction to some of the central ideas of 
 Pedagogy
 --------
 
-Professor Aaronson's teaching statement: (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://scottaaronson.com/teaching.pdf))
+Professor Aaronson's teaching statement: ([PDF](http://scottaaronson.com/teaching.pdf))
 
 Requirements
 ------------
