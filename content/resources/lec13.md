@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on the slippery nature of probabilities, the need for randomness
   in computer science, and basic tools for reasoning about probability.
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/b6076aea66451b8e1e5184929914c5e8_lec13.pdf
+file_size: 148930
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
