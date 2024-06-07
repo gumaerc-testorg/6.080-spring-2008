@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on probabilistic complexity classes, randomness, and useful
   probability formulas.
 file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/ab4c8aeadcf4e955784816bab9ee7b65_lec14.pdf
+file_size: 133182
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
