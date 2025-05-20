@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on polynomial time, computability, complexity, the meaning
   of efficient, the longest increasing subsequence of numbers, stable marriage, and
   examples.
-file: /ol-ocw-studio-app/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/6bb9d9288a25008309519b3bc454f79b_lec8.pdf
+file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/6bb9d9288a25008309519b3bc454f79b_lec8.pdf
 file_size: 185083
 file_type: application/pdf
 learning_resource_types:

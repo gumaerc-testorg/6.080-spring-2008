@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on NP-completeness.
-file: /ol-ocw-studio-app/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/1cce8117881c1d1e5a21935bdf76d377_lec10.pdf
+file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/1cce8117881c1d1e5a21935bdf76d377_lec10.pdf
 file_size: 134689
 file_type: application/pdf
 learning_resource_types:
