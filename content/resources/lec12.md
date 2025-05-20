@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on space complexity, the P versus NP problem, and randomness.
-file: /ol-ocw-studio-app/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/6a28fe89bb2e34cc97abe80af66155f6_lec12.pdf
+file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/6a28fe89bb2e34cc97abe80af66155f6_lec12.pdf
 file_size: 160155
 file_type: application/pdf
 learning_resource_types:

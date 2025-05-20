@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lecture notes on Turing machines, universal Turing machines, the Church-Turing
   thesis, the halting problem, multiple infinities, and infinitely many unsolvable
   problems. '
-file: /ol-ocw-studio-app/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/fb41eda1b737de0a91fa3c617c3414ba_lec4.pdf
+file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/fb41eda1b737de0a91fa3c617c3414ba_lec4.pdf
 file_size: 92782
 file_type: application/pdf
 learning_resource_types:
