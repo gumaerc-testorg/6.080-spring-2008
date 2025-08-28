@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on theoretical computer science.
-file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/64253f99ef4b9cbaff0a3538158c904d_ps3.pdf
+file: /ol-ocw-studio-app/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/64253f99ef4b9cbaff0a3538158c904d_ps3.pdf
 file_size: 69162
 file_type: application/pdf
 learning_resource_types:
