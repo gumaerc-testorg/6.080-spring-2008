@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on RSA and language learning in infants, Chomsky, and quantum
   computing.
-file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/9e3485207053676496c0dcaca19b7c1e_lec21.pdf
+file: /ol-ocw-studio-app/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/9e3485207053676496c0dcaca19b7c1e_lec21.pdf
 file_size: 135132
 file_type: application/pdf
 learning_resource_types:

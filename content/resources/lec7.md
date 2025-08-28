@@ -3,7 +3,7 @@ content_type: resource
 description: "Lecture notes on computational complexity, Penrose\u2019s argument,\
   \ the Dijkstra algorithm, efficiency, circuit complexity, Shannon\u2019s counting\
   \ argument, Hartmanis-Stearns, and notation for complexity."
-file: /courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/4c40dede95d3b2fe07e6aa435b46b471_lec7.pdf
+file: /ol-ocw-studio-app/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/4c40dede95d3b2fe07e6aa435b46b471_lec7.pdf
 file_size: 133196
 file_type: application/pdf
 learning_resource_types:
