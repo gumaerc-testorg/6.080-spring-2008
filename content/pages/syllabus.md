@@ -19,7 +19,7 @@ This course provides a challenging introduction to some of the central ideas of 
 Pedagogy
 --------
 
-Professor Aaronson's teaching statement: ({{% resource_link "5bccbb7c-fc34-494b-91a6-e4274bf86386" "PDF" %}})
+Professor Aaronson's teaching statement: ([PDF](http://scottaaronson.com/teaching.pdf))
 
 Requirements
 ------------
@@ -146,7 +146,7 @@ The only differences are that 6.089 includes a scribe notes requirement whereas 
 Textbooks
 ---------
 
-While the course will not closely follow any textbook, we will sometimes use _Complexity Theory: A Modern Approach_ by Sanjeev Arora and Boaz Barak. A {{% resource_link "e2de6040-2504-4bc4-b956-de1405ca9a31" "draft of this new book" %}} is available for free on the Web, and a printed version will be distributed in class. In addition, the following is highly recommended, though not required:
+While the course will not closely follow any textbook, we will sometimes use _Complexity Theory: A Modern Approach_ by Sanjeev Arora and Boaz Barak. A [draft of this new book](http://www.cs.princeton.edu/theory/complexity/) is available for free on the Web, and a printed version will be distributed in class. In addition, the following is highly recommended, though not required:
 
 Sipser, Michael. _Introduction to the Theory of Computation_. 2nd ed. Boston, MA: Course Technology, 2005. ISBN: 9780534950972.
 
